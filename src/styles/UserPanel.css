@@ -1,0 +1,49 @@
+/* Styles pour le composant UserPanel */
+
+/* Conteneur principal du composant UserPanel */
+.user-panel {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+/* Styles pour les éléments user-info et logout */
+.user-info, .logout {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    transition: color 0.3s ease; /* Ajout d'une transition pour un effet plus lisse */
+}
+
+/* Styles pour le texte dans les éléments user-info et logout */
+.user-info span, .logout span {
+    margin-left: 5px;
+    font-family: 'Caveat', cursive; /* Utilisation de la police Caveat */
+}
+
+/* Styles au survol des éléments user-info et logout */
+.user-info:hover, .logout:hover {
+    color: #ffcc00; /* Changement de la couleur au survol */
+}
+
+/* Styles pour l'élément user-info */
+.user-info {
+    background: linear-gradient(to right, #3498db, #2c3e50);
+    padding: 8px;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
+/* Styles pour l'élément logout */
+.logout {
+    background: linear-gradient(to right, #fc6c6e, #ff4b2b);
+    padding: 8px;
+    border-radius: 20px;
+}
+
+/* Styles au survol du texte dans les éléments user-info et logout */
+.user-info:hover span, .logout:hover span {
+    color: #ffffff; /* Changement de la couleur du texte au survol */
+}

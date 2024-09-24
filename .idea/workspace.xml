@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="71a74ab8-67a3-473f-8a52-3281decd1772" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2afs8OIueatsyUAgAHsCwYSZItG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yacin/Desktop/bureau/Stage-Mawzi/internal-dashboard&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;C:/Users/yacin/Desktop/bureau/Stage-Mawzi/internal-dashboard/node_modules/react-scripts&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\yacin\Desktop\bureau\Stage-Mawzi\internal-dashboard\src\components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="test" type="JavaScriptTestRunnerJest" temporary="true">
+      <config-file value="$PROJECT_DIR$/package.json" />
+      <node-interpreter value="project" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Jest.test" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.start" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Jest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71a74ab8-67a3-473f-8a52-3281decd1772" name="Changes" comment="" />
+      <created>1704720807649</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704720807649</updated>
+      <workItem from="1704720808857" duration="23000" />
+      <workItem from="1704720926023" duration="7420000" />
+      <workItem from="1704729675742" duration="41000" />
+      <workItem from="1704729732088" duration="1000000" />
+      <workItem from="1704742543822" duration="7437000" />
+      <workItem from="1704796477594" duration="14266000" />
+      <workItem from="1704879465588" duration="11445000" />
+      <workItem from="1704895855075" duration="4935000" />
+      <workItem from="1704966147096" duration="15852000" />
+      <workItem from="1705312568077" duration="2626000" />
+      <workItem from="1705399860384" duration="1976000" />
+      <workItem from="1705402363164" duration="10241000" />
+      <workItem from="1705414309357" duration="158000" />
+      <workItem from="1705414528283" duration="5931000" />
+      <workItem from="1705496033623" duration="1214000" />
+      <workItem from="1705571775126" duration="14739000" />
+      <workItem from="1705920874585" duration="15522000" />
+      <workItem from="1705959673122" duration="1929000" />
+      <workItem from="1706005323791" duration="16295000" />
+      <workItem from="1706092272247" duration="9131000" />
+      <workItem from="1706102756715" duration="695000" />
+      <workItem from="1706106739296" duration="3728000" />
+      <workItem from="1706181996041" duration="10459000" />
+      <workItem from="1706524531295" duration="14639000" />
+      <workItem from="1706607395353" duration="2414000" />
+      <workItem from="1706696984492" duration="15546000" />
+      <workItem from="1706789887610" duration="588000" />
+      <workItem from="1707131901421" duration="14093000" />
+      <workItem from="1707172481441" duration="1607000" />
+      <workItem from="1708025635195" duration="2426000" />
+      <workItem from="1708461972191" duration="386000" />
+      <workItem from="1714432229672" duration="29000" />
+      <workItem from="1714433977547" duration="585000" />
+      <workItem from="1714912157889" duration="347000" />
+      <workItem from="1715648463769" duration="340000" />
+      <workItem from="1715708890594" duration="5000" />
+      <workItem from="1719134026282" duration="159000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ajout de la fonctionnalité de mise à jour pour un distributeur" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ajout de la fonctionnalité de mise à jour pour un distributeur" />
+  </component>
+</project>

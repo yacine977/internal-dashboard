@@ -1,0 +1,86 @@
+/* AccountList.css */
+
+/* Style de la zone contenant la liste des comptes */
+.account-list-container {
+    margin-top: 20px;
+    padding-left: 250px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+/* Ajoutez un nouveau style pour harmoniser AccountList lorsque la barre latérale est masquée */
+.sidebar-hidden .account-list-container {
+    margin-left: 0;
+    padding-left: 20px; /* Ajustez selon vos préférences */
+}
+
+/* Style pour les titres h3 */
+h3 {
+    color: #333;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+/* Style pour le tableau */
+table {
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+/* Style pour les cellules du tableau (header et données) */
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+/* Style pour l'en-tête du tableau */
+thead {
+    background-color: #f2f2f2;
+}
+
+/* Style pour les lignes de données alternées */
+tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+/* Style de la barre de recherche */
+.search-bar {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+/* Style pour le champ de recherche */
+.search-bar input {
+    margin-left: 10px;
+    background-color: #ffddde;
+    margin-bottom: 10px;
+    width: 200px;
+}
+
+/* Style pour le bouton de recherche */
+.search-bar button {
+    margin-left: 10px;
+    padding: 8px;
+    background-color: #fc6c6e;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    height: 100%;
+    margin-top: -3.5px;
+    border-radius: 20px;
+}
+
+/* Style pour le conteneur flex */
+.flex-container {
+    display: flex;
+}
+
+/* Style pour le conteneur du graphique en anneau */
+.doughnut-chart-container {
+    position: absolute;
+}
+
+

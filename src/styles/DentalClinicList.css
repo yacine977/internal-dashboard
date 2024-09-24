@@ -1,0 +1,116 @@
+/* DentalClinicList.css */
+
+/* Style pour le conteneur de la liste des cliniques dentaires */
+.dental-clinic-list-container {
+    margin-left: 270px;
+    padding-bottom: 10px;
+}
+
+/* Style pour les paragraphes dans le contenu de la liste des cliniques dentaires */
+.dental-clinic-list-content p {
+    margin-left: 20px;
+}
+
+/* Style pour le contenu de la liste des cliniques dentaires */
+.dental-clinic-list-content {
+    padding: 20px;
+}
+
+/* Style au survol des boutons dans le contenu de la liste des cliniques dentaires */
+.dental-clinic-list-content button:hover {
+    background-color: #2980b9;
+}
+
+/* Style pour le tableau */
+table {
+    width: 99%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+/* Style pour les cellules du tableau (header et données) */
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+/* Style pour l'en-tête du tableau */
+.dental-clinic-list-content th {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Style pour le message "Aucune clinique dentaire trouvée." */
+.dental-clinic-list-content p {
+    color: #888;
+}
+
+/* AddDentalClinic.css */
+
+/* Style pour le conteneur d'ajout de clinique dentaire */
+.add-dental-clinic-container {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10px; /* Assurez-vous que la marge à gauche est cohérente avec le tableau */
+    box-sizing: border-box; /* Assurez-vous que le padding et la bordure sont inclus dans la largeur totale */
+}
+
+/* Style pour les libellés du formulaire d'ajout de clinique dentaire */
+.add-dental-clinic-container label {
+    display: block;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+/* Style pour les champs de saisie du formulaire d'ajout de clinique dentaire */
+.add-dental-clinic-container input {
+    width: 99%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Style pour les boutons dans le contenu de la liste des cliniques dentaires */
+.dental-clinic-list-content button {
+    margin-right: 10px;
+    background-color: #333;;
+    color: #fff;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Style pour les boutons du formulaire d'ajout de clinique dentaire */
+.add-dental-clinic-container button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+}
+
+/* Style au survol des boutons du formulaire d'ajout de clinique dentaire */
+.add-dental-clinic-container button:hover {
+    background-color: #2980b9;
+}
+
+/* Style pour le titre h3 dans le contenu de la liste des cliniques dentaires */
+.dental-clinic-list-content h3 {
+    font-size: 24px; /* Taille de la police */
+    color: #333; /* Couleur du texte */
+    margin-bottom: 20px; /* Marge en bas pour l'espace */
+    border-bottom: 2px solid #3498db; /* Bordure en bas */
+    padding-bottom: 10px; /* Espacement en bas */
+    margin-left: 10px;
+    width: 99%;
+}

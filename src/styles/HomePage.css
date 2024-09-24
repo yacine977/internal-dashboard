@@ -1,0 +1,75 @@
+/* Styles globaux */
+body {
+    --primary-color: #3498db; /* Couleur principale */
+    --secondary-color: #2ecc71; /* Couleur secondaire */
+    --background-color: #f7f7f7; /* Couleur de fond */
+    --text-color: #333; /* Couleur du texte principal */
+    font-family: 'Helvetica Neue', sans-serif; /* Typographie */
+}
+
+/* Styles de la page d'accueil */
+.homepage-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    height: 100vh;
+    padding: 20px;
+    background-color: var(--background-color); /* Couleur de fond */
+    border-radius: 10px; /* Coins arrondis */
+    text-align: center; /* Alignement central pour le contenu */
+}
+
+.logo-container {
+    margin-top: 20px;
+}
+
+.logo_homepage {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    color: var(--text-color);
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+welcome-text {
+    text-align: justify;
+    margin-bottom: 20px;
+    font-size: 16px;  /* Ajuste la taille du texte de bienvenue */
+    line-height: 1.5; /* Espacement des lignes pour une meilleure lisibilité */
+}
+
+.signin-button {
+    margin-top: 20px;
+}
+
+.signin-button button {
+    border-radius: 20px;
+}
+
+button {
+    background-color: var(--secondary-color);
+    color: #fff;
+    padding: 12px 20px;
+    border: 2px solid var(--secondary-color); /* Bordure autour du bouton */
+    border-radius: 6px; /* Coins arrondis */
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease; /* Ajoute une transition au survol */
+}
+
+button:hover {
+    background-color: #45a049;
+    transform: scale(1.05); /* Légère augmentation de la taille au survol */
+}
+
+.contact-info {
+    font-size: 14px;
+    font-style: italic;
+    color: #666;
+}

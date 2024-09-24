@@ -1,0 +1,41 @@
+.account-status-summary-container {
+    position: relative; /* Correction de la propriété position */
+    text-align: center;
+}
+
+.account-status-summary-container > h3 {
+    color: #fc6c6e;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.status-box {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    padding: 20px;
+    border-radius: 15px;
+    margin: 10px;
+    position: relative;
+    border: 1px solid black;
+}
+
+.status-box > p {
+    margin: 0;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Style pour le texte dans le cadre */
+.status-box .count {
+    font-size: 60px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.status-box .status-type {
+    font-size: 18px;
+}

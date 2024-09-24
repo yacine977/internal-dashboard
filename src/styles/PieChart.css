@@ -1,0 +1,6 @@
+/* Styles du composant PieChart */
+.pie-chart-container {
+    width: 300px; /* Largeur du conteneur */
+    height: 300px; /* Hauteur du conteneur */
+    padding: 20px; /* Espacement interne du conteneur */
+}

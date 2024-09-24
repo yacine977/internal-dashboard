@@ -1,0 +1,46 @@
+/* Styles pour le composant SignIn */
+
+/* Conteneur du formulaire de connexion */
+.signin-container {
+    max-width: 400px;
+    margin-top: 85px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    text-align: center;
+}
+
+/* Titre du formulaire */
+h2 {
+    color: #333;
+}
+
+/* Styles pour les libellés du formulaire */
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+/* Styles pour les champs de saisie du formulaire */
+input {
+    width: 95%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+/* Styles pour le bouton de soumission du formulaire */
+button {
+    background-color: #fc6c6e;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+}
