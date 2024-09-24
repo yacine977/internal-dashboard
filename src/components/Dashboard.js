@@ -11,7 +11,7 @@ const Dashboard = () => {
     const [user, setUser] = useState({});
     // État pour l'utilisateur actuel (à utiliser dans l'interface utilisateur)
     // eslint-disable-next-line no-unused-vars
-    const [currentUser, setCurrentUser] = useState('Yacine Tamindjoute');
+    const [currentUser, setCurrentUser] = useState('Yacine TAMINDJOUTE');
 
     // Fonction de déconnexion
     const handleLogout = () => {
